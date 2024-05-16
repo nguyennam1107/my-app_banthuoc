@@ -1,0 +1,93 @@
+﻿<UserControl x:Class="Nhom_1.View.SettingsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Background="WhiteSmoke"
+        Height="450" Width="600">
+    <Grid>
+        <!-- Main Grid Layout -->
+        <Grid Margin="10">
+            <!-- Title -->
+            <TextBlock Text="Settings" FontWeight="Bold" FontSize="18" HorizontalAlignment="Center" Margin="0 0 0 20"/>
+
+            <!-- Settings Content -->
+            <StackPanel>
+
+                <!-- Theme -->
+                <GroupBox Header="Theme" Margin="0 40 0 20">
+                    <StackPanel Margin="10">
+                        <RadioButton Content="Light Theme"/>
+                        <RadioButton Content="Dark Theme"/>
+                    </StackPanel>
+                </GroupBox>
+
+                <!-- Language -->
+                <GroupBox Header="Language" Margin="0 0 0 20">
+                    <ComboBox Margin="10">
+                        <ComboBoxItem Content="English"/>
+                        <ComboBoxItem Content="French"/>
+                        <ComboBoxItem Content="Spanish"/>
+                    </ComboBox>
+                </GroupBox>
+
+                <!-- Notification Settings -->
+                <GroupBox Header="Notification Settings" Margin="0 0 0 20">
+                    <StackPanel Margin="10">
+                        <CheckBox Content="Enable Notifications"/>
+                        <Slider Minimum="0" Maximum="100" Value="50" TickPlacement="BottomRight" TickFrequency="10" Width="200" Margin="0 10"/>
+                    </StackPanel>
+                </GroupBox>
+
+                <!-- Data Sync Settings -->
+                <GroupBox Header="Data Sync Settings" Margin="0 0 0 20">
+                    <StackPanel Margin="10">
+                        <RadioButton Content="Manual Sync"/>
+                        <RadioButton Content="Automatic Sync"/>
+                        <ComboBox Margin="0 10">
+                            <ComboBoxItem Content="Every hour"/>
+                            <ComboBoxItem Content="Every day"/>
+                            <ComboBoxItem Content="Every week"/>
+                        </ComboBox>
+                    </StackPanel>
+                </GroupBox>
+
+                <!-- Display Settings -->
+                <GroupBox Header="Display Settings" Margin="0 0 0 20">
+                    <StackPanel Margin="10">
+                        <CheckBox Content="Show Tooltips"/>
+                        <CheckBox Content="Show Gridlines"/>
+                        <CheckBox Content="Show Thumbnails"/>
+                    </StackPanel>
+                </GroupBox>
+
+                <!-- Account Settings -->
+                <GroupBox Header="Account Settings" Margin="0 0 0 20">
+                    <StackPanel Margin="10">
+                        <TextBox Text="Username" Margin="0 5"/>
+                        <PasswordBox Password="Password" Margin="0 5"/>
+                        <Button Content="Change Password" Margin="0 5"/>
+                    </StackPanel>
+                </GroupBox>
+
+                <!-- Backup Settings -->
+                <GroupBox Header="Backup Settings" Margin="0 0 0 20">
+                    <StackPanel Margin="10">
+                        <CheckBox Content="Enable Backup"/>
+                        <TextBox Text="Backup Path" Margin="0 5"/>
+                        <Button Content="Browse" Margin="0 5"/>
+                    </StackPanel>
+                </GroupBox>
+
+                <!-- Display Settings -->
+                <GroupBox Header="Display Settings" Margin="0 0 0 20">
+                    <StackPanel Margin="10">
+                        <CheckBox Content="Show Advanced Options"/>
+                        <Slider Minimum="0" Maximum="100" Value="50" TickPlacement="BottomRight" TickFrequency="10" Width="200" Margin="0 10"/>
+                    </StackPanel>
+                </GroupBox>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</UserControl>

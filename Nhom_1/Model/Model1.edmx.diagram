@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="1fccd4e2b5224b8d9ae89cb24dc5b44d" Name="Diagram1">
+        <EntityTypeShape EntityType="QuanLyCuaHangThuoc_V2Model.ChiTietDonBanHang" Width="1.5" PointX="5.25" PointY="5.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyCuaHangThuoc_V2Model.ChiTietPhieuNhapKho" Width="1.5" PointX="8.25" PointY="5.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyCuaHangThuoc_V2Model.CuaHang" Width="1.5" PointX="0.75" PointY="10.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyCuaHangThuoc_V2Model.DonBanHang" Width="1.5" PointX="3" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyCuaHangThuoc_V2Model.DonVi" Width="1.5" PointX="0.75" PointY="6.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyCuaHangThuoc_V2Model.Order" Width="1.5" PointX="5.25" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyCuaHangThuoc_V2Model.PhieuNhapKho" Width="1.5" PointX="6" PointY="10.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyCuaHangThuoc_V2Model.sysdiagram" Width="1.5" PointX="7.75" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyCuaHangThuoc_V2Model.TaiKhoan" Width="1.5" PointX="3" PointY="10.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyCuaHangThuoc_V2Model.Thuoc" Width="1.5" PointX="3" PointY="4.875" IsExpanded="true" />
+        <AssociationConnector Association="QuanLyCuaHangThuoc_V2Model.FK__ChiTietDo__IdDon__4CA06362" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyCuaHangThuoc_V2Model.FK__ChiTietDo__IdDon__5629CD9C" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyCuaHangThuoc_V2Model.FK__ChiTietDo__IdDon__6EF57B66" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyCuaHangThuoc_V2Model.FK__ChiTietDo__IdThu__4D94879B" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyCuaHangThuoc_V2Model.FK__ChiTietDo__IdThu__571DF1D5" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyCuaHangThuoc_V2Model.FK__ChiTietDo__IdThu__6FE99F9F" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyCuaHangThuoc_V2Model.FK__ChiTietPh__IdPhi__45F365D3" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyCuaHangThuoc_V2Model.FK__ChiTietPh__IdPhi__5812160E" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyCuaHangThuoc_V2Model.FK__ChiTietPh__IdPhi__70DDC3D8" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyCuaHangThuoc_V2Model.FK__ChiTietPh__IdThu__46E78A0C" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyCuaHangThuoc_V2Model.FK__ChiTietPh__IdThu__59063A47" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyCuaHangThuoc_V2Model.FK__ChiTietPh__IdThu__71D1E811" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyCuaHangThuoc_V2Model.FK__DonBanHan__IdCua__49C3F6B7" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyCuaHangThuoc_V2Model.FK__DonBanHan__IdCua__59FA5E80" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyCuaHangThuoc_V2Model.FK__DonBanHan__IdCua__72C60C4A" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyCuaHangThuoc_V2Model.FK__TaiKhoan__IdCuaH__412EB0B6" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyCuaHangThuoc_V2Model.FK__TaiKhoan__IdCuaH__5AEE82B9" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyCuaHangThuoc_V2Model.FK__TaiKhoan__IdCuaH__73BA3083" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyCuaHangThuoc_V2Model.FK__Thuoc__IdDonVi__3E52440B" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyCuaHangThuoc_V2Model.FK__Thuoc__IdDonVi__5BE2A6F2" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyCuaHangThuoc_V2Model.FK__Thuoc__IdDonVi__74AE54BC" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyCuaHangThuoc_V2Model.FK__Orders__ProductI__03F0984C" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyCuaHangThuoc_V2Model.FK__Orders__TaiKhoan__02FC7413" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

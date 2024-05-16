@@ -1,0 +1,29 @@
+﻿<UserControl x:Class="Nhom_1.View.BuyView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Nhom_1.View"
+             mc:Ignorable="d" 
+             Background="White"
+             d:DesignHeight="450" d:DesignWidth="1050">
+    <Grid>
+        <StackPanel>
+            <TextBlock Margin="0,50" HorizontalAlignment="Center" VerticalAlignment="Top" Text="Thanh Toán" FontSize="26" FontFamily="Mistral" Foreground="Orange"/>
+    <Grid Margin="0,25">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="200"/>
+                    <ColumnDefinition Width="300"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="1" Text="Tổng tiền thanh toán: " FontSize="20"/>
+                
+                <TextBlock Grid.Column="2" Text="{Binding TotalAmount}" FontSize="20"/>
+            </Grid>
+
+            <Button Margin="0,25" HorizontalAlignment="Center" Content="Tạo mã QR thanh toán" Click="GenerateQRCode_Click"/>
+
+            <Image x:Name="QRCodeImage" Margin="0,15" Width="150" Height="150" Source="/img/QrCode.png" Visibility="Collapsed"/>
+        </StackPanel>
+    </Grid>
+</UserControl>

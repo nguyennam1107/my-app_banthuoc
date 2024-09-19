@@ -14,7 +14,7 @@
         <ViewModel:HomeViewModel/>
     </UserControl.DataContext>
     <Border CornerRadius="10"                    
-            BorderThickness="1">
+            BorderThickness="1" >
         <Border.BorderBrush>
             <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
                 <GradientStop Color="{StaticResource winBorderColor1}" Offset="0"/>
@@ -22,7 +22,7 @@
                 <GradientStop Color="{StaticResource winBorderColor3}" Offset="1"/>
             </LinearGradientBrush>
         </Border.BorderBrush>
-        <Grid>
+        <Grid x:Name="rootElement">
             <Grid.RowDefinitions>
                 <RowDefinition Height="25"/>
                 <RowDefinition Height="*"/>
@@ -87,7 +87,8 @@
                 </ScrollViewer>
             </Grid>
             <Grid Grid.Row="3" HorizontalAlignment="Center">
-                <Popup IsOpen="{Binding IsPopupVisible}" Width="525" Height="250" HorizontalAlignment="Center" VerticalAlignment="Center">
+                <Popup IsOpen="{Binding IsPopupVisible}" Placement="Center"
+               PlacementTarget="{Binding ElementName=rootElement}" Width="525" Height="250" HorizontalAlignment="Center" VerticalAlignment="Center">
                     <Border BorderThickness="1" Margin="5" >
                         <Border.BorderBrush>
                             <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">

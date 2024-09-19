@@ -298,47 +298,47 @@
                                              VerticalAlignment="Center"/>
 
                                                 <!-- Ngày sinh-->
-                                                <TextBlock Text="{Binding TaiKhoan}"
-           FontSize="14"
-           Foreground="White"
-           FontFamily="Century Gothic"
-           Margin="20,10,0,0"
-           VerticalAlignment="Center"/>
-                                                <!-- quê quán-->
+                                                    <TextBlock Text="{Binding TaiKhoan}"
+                                                           FontSize="14"
+                                                           Foreground="White"
+                                                           FontFamily="Century Gothic"
+                                                           Margin="20,10,0,0"
+                                                           VerticalAlignment="Center"/>
+                                                    <!-- quê quán-->
                                                 <TextBlock Text="Hoa Kỳ"
-           FontSize="14"
-           Foreground="White"
-           FontFamily="Century Gothic"
-           Margin="20,10,0,0"
-           VerticalAlignment="Center"/>
+                                                       FontSize="14"
+                                                       Foreground="White"
+                                                       FontFamily="Century Gothic"
+                                                       Margin="20,10,0,0"
+                                                       VerticalAlignment="Center"/>
                                                 <!-- số điện thoại-->
                                                 <TextBlock Text="{Binding TaiKhoan.SoDienThoai}"
-           FontSize="14"
-           Foreground="White"
-           FontFamily="Century Gothic"
-           Margin="20,10,0,0"
-           VerticalAlignment="Center"/>
+                                                                   FontSize="14"
+                                                                   Foreground="White"
+                                                                   FontFamily="Century Gothic"
+                                                                   Margin="20,10,0,0"
+                                                                   VerticalAlignment="Center"/>
                                                 <!-- chức vụ-->
                                                 <!-- số điện thoại-->
                                                 <TextBlock Text="Admin"
-           FontSize="14"
-           Foreground="White"
-           FontFamily="Century Gothic"
-           Margin="20,10,0,0"
-           VerticalAlignment="Center"/>
+                                                           FontSize="14"
+                                                           Foreground="White"
+                                                           FontFamily="Century Gothic"
+                                                           Margin="20,10,0,0"
+                                                           VerticalAlignment="Center"/>
                                                 <!-- chức vụ-->
                                                 <TextBlock Text="Online"
-           FontSize="14"
-           Foreground="White"
-           FontFamily="Century Gothic"
-           Margin="20,10,0,0"
-           VerticalAlignment="Center"/>
+                                                       FontSize="14"
+                                                       Foreground="White"
+                                                       FontFamily="Century Gothic"
+                                                       Margin="20,10,0,0"
+                                                       VerticalAlignment="Center"/>
                                                 <!-- Ghi chú-->
                                                 <TextBlock Text="Code giỏi nhưng deo có người yêu "
-           FontSize="14"
-           Foreground="White"
-           FontFamily="Century Gothic"
-           Margin="20,10,0,0"/>
+                                                       FontSize="14"
+                                                       Foreground="White"
+                                                       FontFamily="Century Gothic"
+                                                       Margin="20,10,0,0"/>
                                             </StackPanel>
                                         </Grid>
                                     </Border>

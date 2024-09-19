@@ -74,7 +74,7 @@
                 </Button.Style>
             </Button>
         </Grid>
-        <Grid Grid.Row="1">
+        <Grid  x:Name="rootElement" Grid.Row="1">
             <!-- Content của Grid.Row="1" -->
             <Border Grid.Row="1"
    Background="#200F53"
@@ -126,7 +126,8 @@
         </Grid>
         <Grid Grid.Row="2">
             <!-- Content của Grid.Row="2" -->
-            <Popup IsOpen="{Binding IsPopupVisible}" Width="425" Height="250" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Popup IsOpen="{Binding IsPopupVisible}"  Placement="Center"
+               PlacementTarget="{Binding ElementName=rootElement}" Width="425" Height="250" HorizontalAlignment="Center" VerticalAlignment="Center">
                 <Border Background="#FFFFFF" BorderThickness="1" Margin="5" >
                     <Border.BorderBrush>
                         <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">

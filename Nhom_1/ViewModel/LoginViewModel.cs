@@ -5,6 +5,8 @@ using System.Windows.Input;
 using System.Threading;
 using Nhom_1.Model;
 using Nhom_1.ViewModel;
+using System.Runtime.InteropServices;
+using System;
 namespace Nhom_1.ViewModel
 {
     public class LoginViewModel : ViewModelBase
@@ -96,6 +98,5 @@ namespace Nhom_1.ViewModel
                 ErrorMessage = "* Tài khoản hoặc mật khẩu không chính xác";
             }
         }
-
-    }
+    }   
 }

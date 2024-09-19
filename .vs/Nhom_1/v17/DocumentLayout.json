@@ -3,24 +3,127 @@
   "WorkspaceRootPath": "D:\\NetFramework\\Nhom_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|d:\\netframework\\nhom_1\\nhom_1\\view\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|solutionrelative:nhom_1\\view\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|D:\\NetFramework\\Nhom_1\\nhom_1\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|solutionrelative:nhom_1\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|D:\\NetFramework\\Nhom_1\\nhom_1\\view\\view_login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|solutionrelative:nhom_1\\view\\view_login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|d:\\netframework\\nhom_1\\nhom_1\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|solutionrelative:nhom_1\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|D:\\NetFramework\\Nhom_1\\nhom_1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|solutionrelative:nhom_1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|D:\\NetFramework\\Nhom_1\\nhom_1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|solutionrelative:nhom_1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|D:\\NetFramework\\Nhom_1\\nhom_1\\viewmodel\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|solutionrelative:nhom_1\\viewmodel\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|d:\\netframework\\nhom_1\\nhom_1\\viewmodel\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|solutionrelative:nhom_1\\viewmodel\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|d:\\netframework\\nhom_1\\nhom_1\\view\\dashboard .xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|D:\\NetFramework\\Nhom_1\\nhom_1\\viewmodel\\buyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|solutionrelative:nhom_1\\viewmodel\\buyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|D:\\NetFramework\\Nhom_1\\nhom_1\\model\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|solutionrelative:nhom_1\\model\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|D:\\NetFramework\\Nhom_1\\nhom_1\\view\\customerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|solutionrelative:nhom_1\\view\\customerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|D:\\NetFramework\\Nhom_1\\nhom_1\\view\\dashboard .xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|solutionrelative:nhom_1\\view\\dashboard .xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|d:\\netframework\\nhom_1\\nhom_1\\view\\oder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|D:\\NetFramework\\Nhom_1\\nhom_1\\view\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|solutionrelative:nhom_1\\view\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|D:\\NetFramework\\Nhom_1\\nhom_1\\view\\main.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|solutionrelative:nhom_1\\view\\main.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|D:\\NetFramework\\Nhom_1\\nhom_1\\view\\oder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|solutionrelative:nhom_1\\view\\oder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|d:\\netframework\\nhom_1\\nhom_1\\viewmodel\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|solutionrelative:nhom_1\\viewmodel\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|D:\\NetFramework\\Nhom_1\\nhom_1\\view\\settingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|solutionrelative:nhom_1\\view\\settingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|D:\\NetFramework\\Nhom_1\\nhom_1\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|solutionrelative:nhom_1\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|D:\\NetFramework\\Nhom_1\\nhom_1\\view\\buyview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|solutionrelative:nhom_1\\view\\buyview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|D:\\NetFramework\\Nhom_1\\nhom_1\\view\\buyview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|solutionrelative:nhom_1\\view\\buyview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|D:\\NetFramework\\Nhom_1\\nhom_1\\model\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|solutionrelative:nhom_1\\model\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|D:\\NetFramework\\Nhom_1\\nhom_1\\model\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|solutionrelative:nhom_1\\model\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|D:\\NetFramework\\Nhom_1\\nhom_1\\model\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|solutionrelative:nhom_1\\model\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\AppData\\Local\\Temp\\.vsdbgsrc\\476568339d2f4e7a4bc7978dc03d5687109e25bf2d919d3b6474084b4ed71951\\EntityConnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|D:\\NetFramework\\Nhom_1\\nhom_1\\view\\customerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|solutionrelative:nhom_1\\view\\customerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|D:\\NetFramework\\Nhom_1\\nhom_1\\view\\main.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|solutionrelative:nhom_1\\view\\main.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|D:\\NetFramework\\Nhom_1\\nhom_1\\customcontrols\\bindablepasswordbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|solutionrelative:nhom_1\\customcontrols\\bindablepasswordbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|D:\\NetFramework\\Nhom_1\\nhom_1\\customcontrols\\bindablepasswordbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|solutionrelative:nhom_1\\customcontrols\\bindablepasswordbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|D:\\NetFramework\\Nhom_1\\nhom_1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|solutionrelative:nhom_1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|D:\\NetFramework\\Nhom_1\\nhom_1\\styles\\buttonstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|solutionrelative:nhom_1\\styles\\buttonstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|D:\\NetFramework\\Nhom_1\\nhom_1\\styles\\uicolors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|solutionrelative:nhom_1\\styles\\uicolors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|D:\\NetFramework\\Nhom_1\\nhom_1\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|solutionrelative:nhom_1\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|D:\\NetFramework\\Nhom_1\\nhom_1\\viewmodel\\viewmodelcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11F998D3-71BB-4C6E-A184-66925E5C643D}|Nhom_1\\Nhom_1.csproj|solutionrelative:nhom_1\\viewmodel\\viewmodelcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,9 +132,22 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 2,
-          "SelectedChildIndex": 2,
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Main.xaml",
+              "DocumentMoniker": "D:\\NetFramework\\Nhom_1\\Nhom_1\\View\\Main.xaml",
+              "RelativeDocumentMoniker": "Nhom_1\\View\\Main.xaml",
+              "ToolTip": "D:\\NetFramework\\Nhom_1\\Nhom_1\\View\\Main.xaml",
+              "RelativeToolTip": "Nhom_1\\View\\Main.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-17T22:20:16.196Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
@@ -42,7 +158,321 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\NetFramework\\Nhom_1\\Nhom_1\\packages.config",
+              "RelativeDocumentMoniker": "Nhom_1\\packages.config",
+              "ToolTip": "D:\\NetFramework\\Nhom_1\\Nhom_1\\packages.config",
+              "RelativeToolTip": "Nhom_1\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-24T22:13:34.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BuyViewModel.cs",
+              "DocumentMoniker": "D:\\NetFramework\\Nhom_1\\Nhom_1\\ViewModel\\BuyViewModel.cs",
+              "RelativeDocumentMoniker": "Nhom_1\\ViewModel\\BuyViewModel.cs",
+              "ToolTip": "D:\\NetFramework\\Nhom_1\\Nhom_1\\ViewModel\\BuyViewModel.cs",
+              "RelativeToolTip": "Nhom_1\\ViewModel\\BuyViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:59:04.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BuyView.xaml.cs",
+              "DocumentMoniker": "D:\\NetFramework\\Nhom_1\\Nhom_1\\View\\BuyView.xaml.cs",
+              "RelativeDocumentMoniker": "Nhom_1\\View\\BuyView.xaml.cs",
+              "ToolTip": "D:\\NetFramework\\Nhom_1\\Nhom_1\\View\\BuyView.xaml.cs",
+              "RelativeToolTip": "Nhom_1\\View\\BuyView.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:58:38.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BuyView.xaml",
+              "DocumentMoniker": "D:\\NetFramework\\Nhom_1\\Nhom_1\\View\\BuyView.xaml",
+              "RelativeDocumentMoniker": "Nhom_1\\View\\BuyView.xaml",
+              "ToolTip": "D:\\NetFramework\\Nhom_1\\Nhom_1\\View\\BuyView.xaml",
+              "RelativeToolTip": "Nhom_1\\View\\BuyView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-22T20:55:09.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Model1.Context.tt",
+              "DocumentMoniker": "D:\\NetFramework\\Nhom_1\\Nhom_1\\Model\\Model1.Context.tt",
+              "RelativeDocumentMoniker": "Nhom_1\\Model\\Model1.Context.tt",
+              "ToolTip": "D:\\NetFramework\\Nhom_1\\Nhom_1\\Model\\Model1.Context.tt",
+              "RelativeToolTip": "Nhom_1\\Model\\Model1.Context.tt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-21T10:40:16.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TaiKhoan.cs",
+              "DocumentMoniker": "D:\\NetFramework\\Nhom_1\\Nhom_1\\Model\\TaiKhoan.cs",
+              "RelativeDocumentMoniker": "Nhom_1\\Model\\TaiKhoan.cs",
+              "ToolTip": "D:\\NetFramework\\Nhom_1\\Nhom_1\\Model\\TaiKhoan.cs",
+              "RelativeToolTip": "Nhom_1\\Model\\TaiKhoan.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:11:33.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\NetFramework\\Nhom_1\\Nhom_1\\Model\\Model1.edmx",
+              "RelativeDocumentMoniker": "Nhom_1\\Model\\Model1.edmx",
+              "ToolTip": "D:\\NetFramework\\Nhom_1\\Nhom_1\\Model\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Nhom_1\\Model\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-05-20T07:01:49.44Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EntityConnection.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\.vsdbgsrc\\476568339d2f4e7a4bc7978dc03d5687109e25bf2d919d3b6474084b4ed71951\\EntityConnection.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\.vsdbgsrc\\476568339d2f4e7a4bc7978dc03d5687109e25bf2d919d3b6474084b4ed71951\\EntityConnection.cs [Read Only]",
+              "ViewState": "AQIAAFMBAAAAAAAAAAAtwGsBAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T06:58:05.121Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\NetFramework\\Nhom_1\\Nhom_1\\App.config",
+              "RelativeDocumentMoniker": "Nhom_1\\App.config",
+              "ToolTip": "D:\\NetFramework\\Nhom_1\\Nhom_1\\App.config",
+              "RelativeToolTip": "Nhom_1\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-20T06:55:57.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CustomerView.xaml.cs",
+              "DocumentMoniker": "D:\\NetFramework\\Nhom_1\\Nhom_1\\View\\CustomerView.xaml.cs",
+              "RelativeDocumentMoniker": "Nhom_1\\View\\CustomerView.xaml.cs",
+              "ToolTip": "D:\\NetFramework\\Nhom_1\\Nhom_1\\View\\CustomerView.xaml.cs",
+              "RelativeToolTip": "Nhom_1\\View\\CustomerView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T15:08:35.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "D:\\NetFramework\\Nhom_1\\Nhom_1\\Model\\DataProvider.cs",
+              "RelativeDocumentMoniker": "Nhom_1\\Model\\DataProvider.cs",
+              "ToolTip": "D:\\NetFramework\\Nhom_1\\Nhom_1\\Model\\DataProvider.cs",
+              "RelativeToolTip": "Nhom_1\\Model\\DataProvider.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T14:30:07.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerView.xaml",
+              "DocumentMoniker": "D:\\NetFramework\\Nhom_1\\Nhom_1\\View\\CustomerView.xaml",
+              "RelativeDocumentMoniker": "Nhom_1\\View\\CustomerView.xaml",
+              "ToolTip": "D:\\NetFramework\\Nhom_1\\Nhom_1\\View\\CustomerView.xaml",
+              "RelativeToolTip": "Nhom_1\\View\\CustomerView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-18T13:10:28.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SettingsWindow.xaml",
+              "DocumentMoniker": "D:\\NetFramework\\Nhom_1\\Nhom_1\\View\\SettingsWindow.xaml",
+              "RelativeDocumentMoniker": "Nhom_1\\View\\SettingsWindow.xaml",
+              "ToolTip": "D:\\NetFramework\\Nhom_1\\Nhom_1\\View\\SettingsWindow.xaml",
+              "RelativeToolTip": "Nhom_1\\View\\SettingsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-17T22:59:56.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Main.xaml.cs",
+              "DocumentMoniker": "D:\\NetFramework\\Nhom_1\\Nhom_1\\View\\Main.xaml.cs",
+              "RelativeDocumentMoniker": "Nhom_1\\View\\Main.xaml.cs",
+              "ToolTip": "D:\\NetFramework\\Nhom_1\\Nhom_1\\View\\Main.xaml.cs",
+              "RelativeToolTip": "Nhom_1\\View\\Main.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T22:46:04.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\NetFramework\\Nhom_1\\Nhom_1\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "Nhom_1\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "D:\\NetFramework\\Nhom_1\\Nhom_1\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "Nhom_1\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAGsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T22:17:39.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\NetFramework\\Nhom_1\\Nhom_1\\App.xaml",
+              "RelativeDocumentMoniker": "Nhom_1\\App.xaml",
+              "ToolTip": "D:\\NetFramework\\Nhom_1\\Nhom_1\\App.xaml",
+              "RelativeToolTip": "Nhom_1\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-17T01:57:54.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ButtonStyles.xaml",
+              "DocumentMoniker": "D:\\NetFramework\\Nhom_1\\Nhom_1\\Styles\\ButtonStyles.xaml",
+              "RelativeDocumentMoniker": "Nhom_1\\Styles\\ButtonStyles.xaml",
+              "ToolTip": "D:\\NetFramework\\Nhom_1\\Nhom_1\\Styles\\ButtonStyles.xaml",
+              "RelativeToolTip": "Nhom_1\\Styles\\ButtonStyles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-17T01:57:36.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UIColors.xaml",
+              "DocumentMoniker": "D:\\NetFramework\\Nhom_1\\Nhom_1\\Styles\\UIColors.xaml",
+              "RelativeDocumentMoniker": "Nhom_1\\Styles\\UIColors.xaml",
+              "ToolTip": "D:\\NetFramework\\Nhom_1\\Nhom_1\\Styles\\UIColors.xaml",
+              "RelativeToolTip": "Nhom_1\\Styles\\UIColors.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-17T01:57:29.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\NetFramework\\Nhom_1\\Nhom_1\\ViewModel\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Nhom_1\\ViewModel\\LoginViewModel.cs",
+              "ToolTip": "D:\\NetFramework\\Nhom_1\\Nhom_1\\ViewModel\\LoginViewModel.cs",
+              "RelativeToolTip": "Nhom_1\\ViewModel\\LoginViewModel.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAADwvx0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T01:54:19.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\NetFramework\\Nhom_1\\Nhom_1\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Nhom_1\\App.xaml.cs",
+              "ToolTip": "D:\\NetFramework\\Nhom_1\\Nhom_1\\App.xaml.cs",
+              "RelativeToolTip": "Nhom_1\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T01:52:37.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ViewModelCommand.cs",
+              "DocumentMoniker": "D:\\NetFramework\\Nhom_1\\Nhom_1\\ViewModel\\ViewModelCommand.cs",
+              "RelativeDocumentMoniker": "Nhom_1\\ViewModel\\ViewModelCommand.cs",
+              "ToolTip": "D:\\NetFramework\\Nhom_1\\Nhom_1\\ViewModel\\ViewModelCommand.cs",
+              "RelativeToolTip": "Nhom_1\\ViewModel\\ViewModelCommand.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T00:36:31.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "D:\\NetFramework\\Nhom_1\\Nhom_1\\ViewModel\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "Nhom_1\\ViewModel\\ViewModelBase.cs",
+              "ToolTip": "D:\\NetFramework\\Nhom_1\\Nhom_1\\ViewModel\\ViewModelBase.cs",
+              "RelativeToolTip": "Nhom_1\\ViewModel\\ViewModelBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T00:36:11.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BindablePasswordBox.xaml.cs",
+              "DocumentMoniker": "D:\\NetFramework\\Nhom_1\\Nhom_1\\CustomControls\\BindablePasswordBox.xaml.cs",
+              "RelativeDocumentMoniker": "Nhom_1\\CustomControls\\BindablePasswordBox.xaml.cs",
+              "ToolTip": "D:\\NetFramework\\Nhom_1\\Nhom_1\\CustomControls\\BindablePasswordBox.xaml.cs",
+              "RelativeToolTip": "Nhom_1\\CustomControls\\BindablePasswordBox.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T00:32:15.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BindablePasswordBox.xaml",
+              "DocumentMoniker": "D:\\NetFramework\\Nhom_1\\Nhom_1\\CustomControls\\BindablePasswordBox.xaml",
+              "RelativeDocumentMoniker": "Nhom_1\\CustomControls\\BindablePasswordBox.xaml",
+              "ToolTip": "D:\\NetFramework\\Nhom_1\\Nhom_1\\CustomControls\\BindablePasswordBox.xaml",
+              "RelativeToolTip": "Nhom_1\\CustomControls\\BindablePasswordBox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-17T00:31:54.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "view_login.xaml",
+              "DocumentMoniker": "D:\\NetFramework\\Nhom_1\\Nhom_1\\View\\view_login.xaml",
+              "RelativeDocumentMoniker": "Nhom_1\\View\\view_login.xaml",
+              "ToolTip": "D:\\NetFramework\\Nhom_1\\Nhom_1\\View\\view_login.xaml",
+              "RelativeToolTip": "Nhom_1\\View\\view_login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-17T00:27:39.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "HomeView.xaml",
               "DocumentMoniker": "D:\\NetFramework\\Nhom_1\\Nhom_1\\View\\HomeView.xaml",
               "RelativeDocumentMoniker": "Nhom_1\\View\\HomeView.xaml",
@@ -54,20 +484,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "HomeViewModel.cs",
               "DocumentMoniker": "D:\\NetFramework\\Nhom_1\\Nhom_1\\ViewModel\\HomeViewModel.cs",
               "RelativeDocumentMoniker": "Nhom_1\\ViewModel\\HomeViewModel.cs",
               "ToolTip": "D:\\NetFramework\\Nhom_1\\Nhom_1\\ViewModel\\HomeViewModel.cs",
               "RelativeToolTip": "Nhom_1\\ViewModel\\HomeViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAzAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAAEwEsAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T20:03:37.022Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "Oder.xaml",
               "DocumentMoniker": "D:\\NetFramework\\Nhom_1\\Nhom_1\\View\\Oder.xaml",
               "RelativeDocumentMoniker": "Nhom_1\\View\\Oder.xaml",
@@ -79,7 +509,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Dashboard .xaml",
               "DocumentMoniker": "D:\\NetFramework\\Nhom_1\\Nhom_1\\View\\Dashboard .xaml",
               "RelativeDocumentMoniker": "Nhom_1\\View\\Dashboard .xaml",
@@ -91,26 +521,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "DashBoardViewModel.cs",
               "DocumentMoniker": "D:\\NetFramework\\Nhom_1\\Nhom_1\\ViewModel\\DashBoardViewModel.cs",
               "RelativeDocumentMoniker": "Nhom_1\\ViewModel\\DashBoardViewModel.cs",
               "ToolTip": "D:\\NetFramework\\Nhom_1\\Nhom_1\\ViewModel\\DashBoardViewModel.cs",
               "RelativeToolTip": "Nhom_1\\ViewModel\\DashBoardViewModel.cs",
-              "ViewState": "AQIAAKcAAAAAAAAAAAAqwLQAAABHAAAA",
+              "ViewState": "AQIAALsAAAAAAAAAAAArwMEAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T19:51:18.176Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 5,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             }
           ]
         }

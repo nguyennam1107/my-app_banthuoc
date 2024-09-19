@@ -144,7 +144,6 @@ namespace Nhom_1.ViewModel
             }
             catch (DbUpdateException ex)
             {
-                // Handle exception
                 Console.WriteLine(ex.Message);
             }
         }
@@ -167,8 +166,8 @@ namespace Nhom_1.ViewModel
         {
             try
             {
-                if (SelectedProduct == null)
-                {
+                if (SelectedProduct== null)
+                { 
                     MessageBox.Show("Vui lòng chọn một sản phẩm để xóa.", "Thông báo", MessageBoxButton.OK, MessageBoxImage.Warning);
                     return;
                 }

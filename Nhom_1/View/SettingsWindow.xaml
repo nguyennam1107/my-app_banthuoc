@@ -22,7 +22,6 @@
                         <RadioButton Content="Dark Theme"/>
                     </StackPanel>
                 </GroupBox>
-
                 <!-- Language -->
                 <GroupBox Header="Language" Margin="0 0 0 20">
                     <ComboBox Margin="10">

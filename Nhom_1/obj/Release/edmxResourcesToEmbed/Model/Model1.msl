@@ -92,7 +92,6 @@
     <EntitySetMapping Name="Thuocs">
       <EntityTypeMapping TypeName="QuanLyCuaHangThuoc_V2Model.Thuoc">
         <MappingFragment StoreEntitySet="Thuoc">
-          <ScalarProperty Name="GhiChu" ColumnName="GhiChu" />
           <ScalarProperty Name="IdThuoc" ColumnName="IdThuoc" />
           <ScalarProperty Name="TenThuoc" ColumnName="TenThuoc" />
           <ScalarProperty Name="HanSuDung" ColumnName="HanSuDung" />
@@ -101,6 +100,7 @@
           <ScalarProperty Name="GiaNhap" ColumnName="GiaNhap" />
           <ScalarProperty Name="GiaBan" ColumnName="GiaBan" />
           <ScalarProperty Name="Image" ColumnName="Image" />
+          <ScalarProperty Name="GhiChu" ColumnName="GhiChu" />
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>

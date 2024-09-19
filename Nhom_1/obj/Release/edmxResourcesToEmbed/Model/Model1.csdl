@@ -127,6 +127,7 @@
     <Property Name="GiaNhap" Type="Decimal" Precision="19" Scale="4" />
     <Property Name="GiaBan" Type="Decimal" Precision="19" Scale="4" />
     <Property Name="Image" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="GhiChu" Type="String" MaxLength="100" FixedLength="true" Unicode="true" />
     <NavigationProperty Name="ChiTietDonBanHangs" Relationship="Self.FK__ChiTietDo__IdThu__4D94879B" FromRole="Thuoc" ToRole="ChiTietDonBanHang" />
     <NavigationProperty Name="ChiTietDonBanHangs1" Relationship="Self.FK__ChiTietDo__IdThu__571DF1D5" FromRole="Thuoc" ToRole="ChiTietDonBanHang" />
     <NavigationProperty Name="ChiTietDonBanHangs2" Relationship="Self.FK__ChiTietDo__IdThu__6FE99F9F" FromRole="Thuoc" ToRole="ChiTietDonBanHang" />
@@ -137,7 +138,6 @@
     <NavigationProperty Name="DonVi1" Relationship="Self.FK__Thuoc__IdDonVi__5BE2A6F2" FromRole="Thuoc" ToRole="DonVi" />
     <NavigationProperty Name="DonVi2" Relationship="Self.FK__Thuoc__IdDonVi__74AE54BC" FromRole="Thuoc" ToRole="DonVi" />
     <NavigationProperty Name="Orders" Relationship="Self.FK__Orders__ProductI__03F0984C" FromRole="Thuoc" ToRole="Orders" />
-    <Property Name="GhiChu" Type="String" MaxLength="100" FixedLength="true" Unicode="true" />
   </EntityType>
   <Association Name="FK__ChiTietDo__IdDon__4CA06362">
     <End Role="DonBanHang" Type="Self.DonBanHang" Multiplicity="0..1" />
